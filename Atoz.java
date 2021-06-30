@@ -1,10 +1,10 @@
-public class Abc
+public class AtoZ
 {
 	public static void main(String args[])
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Gud Morning");
+			System.out.println("Hello Nareshkumar");
 		}
 	}
 }

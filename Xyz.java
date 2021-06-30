@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("Hello Naresh");
 	}
+	public void test()
+	{
+		System.out.println("Kumar");
+	}
 }
